@@ -54,9 +54,9 @@ A comprehensive full stack web application built with modern technologies includ
 
 MERN Stack Application for tracking Job Search Process
 
-![Preview](./client/src/assets/images/preview.PNG)
-![Preview](./client/src/assets/images/preview2.PNG)
-![Preview](./client/src/assets/images/preview3.PNG)
+![Preview](./client/src/assets/images/preview.png)
+![Preview](./client/src/assets/images/preview2.png)
+![Preview](./client/src/assets/images/preview3.png)
 
 ### Features
 
